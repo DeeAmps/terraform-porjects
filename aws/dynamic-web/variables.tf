@@ -18,4 +18,7 @@ variable "var_db_password" {
 variable "var_db_username" {
   type = string
 }
+variable "var_operator_email" {
+  type = string
+}
 
